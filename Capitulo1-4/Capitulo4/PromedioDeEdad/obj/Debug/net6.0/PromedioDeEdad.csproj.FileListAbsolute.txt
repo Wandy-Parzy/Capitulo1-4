@@ -1,0 +1,15 @@
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\PromedioDeEdad\bin\Debug\net6.0\PromedioDeEdad.exe
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\PromedioDeEdad\bin\Debug\net6.0\PromedioDeEdad.deps.json
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\PromedioDeEdad\bin\Debug\net6.0\PromedioDeEdad.runtimeconfig.json
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\PromedioDeEdad\bin\Debug\net6.0\PromedioDeEdad.dll
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\PromedioDeEdad\bin\Debug\net6.0\PromedioDeEdad.pdb
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\PromedioDeEdad\obj\Debug\net6.0\PromedioDeEdad.csproj.AssemblyReference.cache
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\PromedioDeEdad\obj\Debug\net6.0\PromedioDeEdad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\PromedioDeEdad\obj\Debug\net6.0\PromedioDeEdad.AssemblyInfoInputs.cache
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\PromedioDeEdad\obj\Debug\net6.0\PromedioDeEdad.AssemblyInfo.cs
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\PromedioDeEdad\obj\Debug\net6.0\PromedioDeEdad.csproj.CoreCompileInputs.cache
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\PromedioDeEdad\obj\Debug\net6.0\PromedioDeEdad.dll
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\PromedioDeEdad\obj\Debug\net6.0\refint\PromedioDeEdad.dll
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\PromedioDeEdad\obj\Debug\net6.0\PromedioDeEdad.pdb
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\PromedioDeEdad\obj\Debug\net6.0\PromedioDeEdad.genruntimeconfig.cache
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\PromedioDeEdad\obj\Debug\net6.0\ref\PromedioDeEdad.dll

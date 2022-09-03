@@ -1,0 +1,15 @@
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\DiasDeLasSemanas\bin\Debug\net6.0\DiasDeLasSemanas.exe
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\DiasDeLasSemanas\bin\Debug\net6.0\DiasDeLasSemanas.deps.json
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\DiasDeLasSemanas\bin\Debug\net6.0\DiasDeLasSemanas.runtimeconfig.json
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\DiasDeLasSemanas\bin\Debug\net6.0\DiasDeLasSemanas.dll
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\DiasDeLasSemanas\bin\Debug\net6.0\DiasDeLasSemanas.pdb
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\DiasDeLasSemanas\obj\Debug\net6.0\DiasDeLasSemanas.csproj.AssemblyReference.cache
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\DiasDeLasSemanas\obj\Debug\net6.0\DiasDeLasSemanas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\DiasDeLasSemanas\obj\Debug\net6.0\DiasDeLasSemanas.AssemblyInfoInputs.cache
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\DiasDeLasSemanas\obj\Debug\net6.0\DiasDeLasSemanas.AssemblyInfo.cs
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\DiasDeLasSemanas\obj\Debug\net6.0\DiasDeLasSemanas.csproj.CoreCompileInputs.cache
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\DiasDeLasSemanas\obj\Debug\net6.0\DiasDeLasSemanas.dll
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\DiasDeLasSemanas\obj\Debug\net6.0\refint\DiasDeLasSemanas.dll
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\DiasDeLasSemanas\obj\Debug\net6.0\DiasDeLasSemanas.pdb
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\DiasDeLasSemanas\obj\Debug\net6.0\DiasDeLasSemanas.genruntimeconfig.cache
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\DiasDeLasSemanas\obj\Debug\net6.0\ref\DiasDeLasSemanas.dll

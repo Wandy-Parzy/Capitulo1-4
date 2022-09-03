@@ -1,0 +1,15 @@
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\Cap_2\bin\Debug\net6.0\Cap_2.exe
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\Cap_2\bin\Debug\net6.0\Cap_2.deps.json
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\Cap_2\bin\Debug\net6.0\Cap_2.runtimeconfig.json
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\Cap_2\bin\Debug\net6.0\Cap_2.dll
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\Cap_2\bin\Debug\net6.0\Cap_2.pdb
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\Cap_2\obj\Debug\net6.0\Cap_2.csproj.AssemblyReference.cache
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\Cap_2\obj\Debug\net6.0\Cap_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\Cap_2\obj\Debug\net6.0\Cap_2.AssemblyInfoInputs.cache
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\Cap_2\obj\Debug\net6.0\Cap_2.AssemblyInfo.cs
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\Cap_2\obj\Debug\net6.0\Cap_2.csproj.CoreCompileInputs.cache
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\Cap_2\obj\Debug\net6.0\Cap_2.dll
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\Cap_2\obj\Debug\net6.0\refint\Cap_2.dll
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\Cap_2\obj\Debug\net6.0\Cap_2.pdb
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\Cap_2\obj\Debug\net6.0\Cap_2.genruntimeconfig.cache
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\Cap_2\obj\Debug\net6.0\ref\Cap_2.dll

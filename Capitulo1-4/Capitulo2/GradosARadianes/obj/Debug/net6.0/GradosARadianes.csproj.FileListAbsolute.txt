@@ -1,0 +1,15 @@
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\GradosARadianes\bin\Debug\net6.0\GradosARadianes.exe
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\GradosARadianes\bin\Debug\net6.0\GradosARadianes.deps.json
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\GradosARadianes\bin\Debug\net6.0\GradosARadianes.runtimeconfig.json
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\GradosARadianes\bin\Debug\net6.0\GradosARadianes.dll
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\GradosARadianes\bin\Debug\net6.0\GradosARadianes.pdb
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\GradosARadianes\obj\Debug\net6.0\GradosARadianes.csproj.AssemblyReference.cache
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\GradosARadianes\obj\Debug\net6.0\GradosARadianes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\GradosARadianes\obj\Debug\net6.0\GradosARadianes.AssemblyInfoInputs.cache
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\GradosARadianes\obj\Debug\net6.0\GradosARadianes.AssemblyInfo.cs
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\GradosARadianes\obj\Debug\net6.0\GradosARadianes.csproj.CoreCompileInputs.cache
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\GradosARadianes\obj\Debug\net6.0\GradosARadianes.dll
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\GradosARadianes\obj\Debug\net6.0\refint\GradosARadianes.dll
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\GradosARadianes\obj\Debug\net6.0\GradosARadianes.pdb
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\GradosARadianes\obj\Debug\net6.0\GradosARadianes.genruntimeconfig.cache
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\GradosARadianes\obj\Debug\net6.0\ref\GradosARadianes.dll

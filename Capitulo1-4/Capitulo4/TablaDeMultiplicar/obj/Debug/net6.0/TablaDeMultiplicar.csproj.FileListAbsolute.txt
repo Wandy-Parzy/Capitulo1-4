@@ -1,0 +1,15 @@
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\tablaDeMultiplicar\bin\Debug\net6.0\TablaDeMultiplicar.exe
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\tablaDeMultiplicar\bin\Debug\net6.0\TablaDeMultiplicar.deps.json
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\tablaDeMultiplicar\bin\Debug\net6.0\TablaDeMultiplicar.runtimeconfig.json
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\tablaDeMultiplicar\bin\Debug\net6.0\TablaDeMultiplicar.dll
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\tablaDeMultiplicar\bin\Debug\net6.0\TablaDeMultiplicar.pdb
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\tablaDeMultiplicar\obj\Debug\net6.0\TablaDeMultiplicar.csproj.AssemblyReference.cache
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\tablaDeMultiplicar\obj\Debug\net6.0\TablaDeMultiplicar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\tablaDeMultiplicar\obj\Debug\net6.0\TablaDeMultiplicar.AssemblyInfoInputs.cache
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\tablaDeMultiplicar\obj\Debug\net6.0\TablaDeMultiplicar.AssemblyInfo.cs
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\tablaDeMultiplicar\obj\Debug\net6.0\TablaDeMultiplicar.csproj.CoreCompileInputs.cache
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\tablaDeMultiplicar\obj\Debug\net6.0\TablaDeMultiplicar.dll
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\tablaDeMultiplicar\obj\Debug\net6.0\refint\TablaDeMultiplicar.dll
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\tablaDeMultiplicar\obj\Debug\net6.0\TablaDeMultiplicar.pdb
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\tablaDeMultiplicar\obj\Debug\net6.0\TablaDeMultiplicar.genruntimeconfig.cache
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\tablaDeMultiplicar\obj\Debug\net6.0\ref\TablaDeMultiplicar.dll

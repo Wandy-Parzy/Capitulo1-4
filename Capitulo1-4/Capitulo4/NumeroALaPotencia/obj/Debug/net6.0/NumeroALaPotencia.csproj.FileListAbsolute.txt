@@ -1,0 +1,15 @@
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\NumeroALaPotencia\bin\Debug\net6.0\NumeroALaPotencia.exe
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\NumeroALaPotencia\bin\Debug\net6.0\NumeroALaPotencia.deps.json
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\NumeroALaPotencia\bin\Debug\net6.0\NumeroALaPotencia.runtimeconfig.json
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\NumeroALaPotencia\bin\Debug\net6.0\NumeroALaPotencia.dll
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\NumeroALaPotencia\bin\Debug\net6.0\NumeroALaPotencia.pdb
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\NumeroALaPotencia\obj\Debug\net6.0\NumeroALaPotencia.csproj.AssemblyReference.cache
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\NumeroALaPotencia\obj\Debug\net6.0\NumeroALaPotencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\NumeroALaPotencia\obj\Debug\net6.0\NumeroALaPotencia.AssemblyInfoInputs.cache
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\NumeroALaPotencia\obj\Debug\net6.0\NumeroALaPotencia.AssemblyInfo.cs
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\NumeroALaPotencia\obj\Debug\net6.0\NumeroALaPotencia.csproj.CoreCompileInputs.cache
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\NumeroALaPotencia\obj\Debug\net6.0\NumeroALaPotencia.dll
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\NumeroALaPotencia\obj\Debug\net6.0\refint\NumeroALaPotencia.dll
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\NumeroALaPotencia\obj\Debug\net6.0\NumeroALaPotencia.pdb
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\NumeroALaPotencia\obj\Debug\net6.0\NumeroALaPotencia.genruntimeconfig.cache
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\NumeroALaPotencia\obj\Debug\net6.0\ref\NumeroALaPotencia.dll

@@ -1,0 +1,15 @@
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\AreaDelPerimetro\bin\Debug\net6.0\AreaDelPerimetro.exe
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\AreaDelPerimetro\bin\Debug\net6.0\AreaDelPerimetro.deps.json
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\AreaDelPerimetro\bin\Debug\net6.0\AreaDelPerimetro.runtimeconfig.json
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\AreaDelPerimetro\bin\Debug\net6.0\AreaDelPerimetro.dll
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\AreaDelPerimetro\bin\Debug\net6.0\AreaDelPerimetro.pdb
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\AreaDelPerimetro\obj\Debug\net6.0\AreaDelPerimetro.csproj.AssemblyReference.cache
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\AreaDelPerimetro\obj\Debug\net6.0\AreaDelPerimetro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\AreaDelPerimetro\obj\Debug\net6.0\AreaDelPerimetro.AssemblyInfoInputs.cache
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\AreaDelPerimetro\obj\Debug\net6.0\AreaDelPerimetro.AssemblyInfo.cs
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\AreaDelPerimetro\obj\Debug\net6.0\AreaDelPerimetro.csproj.CoreCompileInputs.cache
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\AreaDelPerimetro\obj\Debug\net6.0\AreaDelPerimetro.dll
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\AreaDelPerimetro\obj\Debug\net6.0\refint\AreaDelPerimetro.dll
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\AreaDelPerimetro\obj\Debug\net6.0\AreaDelPerimetro.pdb
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\AreaDelPerimetro\obj\Debug\net6.0\AreaDelPerimetro.genruntimeconfig.cache
+C:\Users\wandy\Desktop\Clases-3-22\Aplicada-1\tarea1\AreaDelPerimetro\obj\Debug\net6.0\ref\AreaDelPerimetro.dll
